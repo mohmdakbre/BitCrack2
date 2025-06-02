@@ -50,7 +50,7 @@ Where TARGETS is one or more addresses
 
 For puzzle ```35```, ```36``` and ```37```
 ```
-BitCrack.exe -b 64 -t 256 -p 1024 --rstride 5 --keyspace 400000000:1FFFFFFFFF 1PWCx5fovoEaoBowAvF5k91m2Xat9bMgwb 1Be2UF9NLfyLFbtm3TCbmuocc9N1Kduci1 14iXhn8bGajVWegZHJ18vJLHhntcpL4dex
+BitCrack.exe -b 64 -t 256 -p 1024 --rstride 5 --keyspace 400000000:1FFFFFFFFF 1PWCx5fovoEaoBowAvF5k91m2Xat9bMgwb bc1qn536eee7mfu5akqq4jlcck7vrda4dqff7r7wq6
 [2021-04-16.22:38:05] [Info] Compression : compressed
 [2021-04-16.22:38:05] [Info] Starting at : 0000000000000000000000000000000000000000000000000000000400000000 (35 bit)
 [2021-04-16.22:38:05] [Info] Ending at   : 0000000000000000000000000000000000000000000000000000001FFFFFFFFF (37 bit)
